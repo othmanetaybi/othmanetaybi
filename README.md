@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm OTHMANE TAYBI</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://cdn.dribbble.com/users/638428/screenshots/3641004/media/9756e05977e724a3ac0bf104d486d06d.gif">
+<h3 align="center">A passionate frontend developer from Morocco</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/media/9756e05977e724a3ac0bf104d486d06d.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=othmanetaybi&label=Profile%20views&color=0e75b6&style=flat" alt="othmanetaybi" /> </p>
